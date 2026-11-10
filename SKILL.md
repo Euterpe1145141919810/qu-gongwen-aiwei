@@ -63,7 +63,7 @@ description: 公文与半学术中文的写作、改稿与核查。用于通知�
 
 **第 5 步 自检**
 
-过 `references/checklist.md` 的 25 项。
+过 `references/checklist.md` 的 26 项。
 
 ## 输出格式
 
