@@ -59,11 +59,11 @@ description: 公文与半学术中文的写作、改稿与核查。用于通知�
 
 **第 4 步 查规范**
 
-公文查 `references/gongwen-format.md`，学术查 `references/academic-edge.md`。文种错、行文关系错、层次序数错、数字用法错，比句式问题严重得多，先修这些。
+公文查 `references/gongwen-format.md`，学术查 `references/academic-edge.md`。文种错、行文关系错、层次序数错、数字用法错，比句式问题严重得多，先修这些。涉及 Word 成稿时，标题样式的大纲级别一并确认，见 `gongwen-format.md` 第 9 节。
 
 **第 5 步 自检**
 
-过 `references/checklist.md` 的 24 项。
+过 `references/checklist.md` 的 25 项。
 
 ## 输出格式
 
@@ -103,7 +103,7 @@ description: 公文与半学术中文的写作、改稿与核查。用于通知�
 
 | 文件 | 什么时候读 |
 | --- | --- |
-| `references/gongwen-format.md` | 写或改公文：版式参数、文种、行文关系、结构要素、序数、数字、固定用语、常见硬错 |
+| `references/gongwen-format.md` | 写或改公文：版式参数、标题大纲级别、文种、行文关系、结构要素、序数、数字、固定用语、常见硬错 |
 | `references/academic-edge.md` | 写或改论文、课题报告、评审意见、申报书：证据强度、引用绑定、限定词、摘要 |
 | `references/patterns.md` | 每次改稿都要过，判断哪些句子有功能、哪些是空转 |
 | `references/checklist.md` | 交稿前自检，含三档词表 |

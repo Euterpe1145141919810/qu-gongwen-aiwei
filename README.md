@@ -99,7 +99,7 @@ qu-gongwen-aiwei/
     ├── gongwen-format.md           文种、行文规则、结构要素、序数、数字、固定用语、硬错
     ├── academic-edge.md            证据强度、引用绑定、限定词、统计表述
     ├── patterns.md                 30 条症状，分「该改」「看语境」「必须留」三组
-    └── checklist.md                24 项自检 + 三档词表 + 交付口吻禁区
+    └── checklist.md                25 项自检 + 三档词表 + 交付口吻禁区
 ```
 
 三档词表是这个技能的核心设计：
