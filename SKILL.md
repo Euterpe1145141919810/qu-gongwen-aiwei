@@ -103,7 +103,7 @@ description: 公文与半学术中文的写作、改稿与核查。用于通知�
 
 | 文件 | 什么时候读 |
 | --- | --- |
-| `references/gongwen-format.md` | 写或改公文：文种、行文关系、结构要素、序数、数字、固定用语、常见硬错 |
+| `references/gongwen-format.md` | 写或改公文：版式参数、文种、行文关系、结构要素、序数、数字、固定用语、常见硬错 |
 | `references/academic-edge.md` | 写或改论文、课题报告、评审意见、申报书：证据强度、引用绑定、限定词、摘要 |
 | `references/patterns.md` | 每次改稿都要过，判断哪些句子有功能、哪些是空转 |
 | `references/checklist.md` | 交稿前自检，含三档词表 |
